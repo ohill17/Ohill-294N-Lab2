@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MMABooksBusinessClasses.Customer">
+    <Position X="5.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAACAQAEAIEAAAHAAAABAAAEAE=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMABooksBusinessClasses.Product">
+    <Position X="8.25" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAAgAAAAAAAggAAAIAAAAAAAAAAAAAAAAAAAACCAIAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MMABooksBusinessClasses.State">
+    <Position X="1.75" Y="1.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECAAAAAgAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI Variable Text" Size="9" />
+</ClassDiagram>
